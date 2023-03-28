@@ -1,4 +1,4 @@
-FiveM No Traffic And Peds
+**FiveM No Traffic And Peds**
 
 A simple resource to remove all ped and vehicles.
 >This resource disables all locals by setting ped and vehicle budgets to zero.
